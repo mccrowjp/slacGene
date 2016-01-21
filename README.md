@@ -14,7 +14,7 @@ See [examples/](./examples) for a tutorial
 
 *SNPs and large deletions in mtDNA*
 
-![mtdna_gene_snp_map](https://cloud.githubusercontent.com/assets/14023091/12429389/d6c45d9a-be9e-11e5-979d-adb256558b29.png)
+![slacgene_mtdna_gene_snp_map](https://cloud.githubusercontent.com/assets/14023091/12496238/52a2d2ba-c049-11e5-8fbe-9ed4db652b0c.png)
 
 Usage
 -----
